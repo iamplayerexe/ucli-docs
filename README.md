@@ -1,5 +1,5 @@
-<h1 align="center">
-<img src="https://cdn.discordapp.com/attachments/1037490342062207046/1271540389114941564/ucli-logo.png?ex=66b7b5c4&is=66b66444&hm=3637bcf32cc27f7a6d0926f78f2084398a3641547fca8c3579eac102f2845009&?size=32">uCLI Documentation
+<h1 align="center">  
+uCLI Documentation
 </h1>
 
 <div align='center'>
@@ -9,8 +9,16 @@
 <br>
 <br>
 
-### Pourquoi ne pas faire le meilleur pour tous ?
+> Pourquoi ne pas faire le meilleur pour tous ? 
 
-uCLI est un client Discord polyvalent et qui est développé dans le but de satisfaire nombreuses personnes.
+**$${\color{red}uCLI}$$** est un client [Discord](https://discord.com) polyvalent et qui est développé dans le but de satisfaire nombreuses personnes.
 
 En effet, la majorité des fonctionnalités que uCLI présente sont majoritairement payantes chez d'autres concurrents. Et c'est là le défi : fournir gratuitement.
+<br>
+<br>
+
+> [!NOTE]
+> Vous pouvez retrouver la documentation [ici](https://xutron.gitbook.io/ucli-docs/).
+
+> [!WARNING]
+> Les bugs sont à soumettre sur le [support](https://discord.gg/fEMDyB9hn7v).
