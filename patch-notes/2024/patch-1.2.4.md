@@ -31,7 +31,7 @@ _<mark style="color:purple;">**/statut**</mark>_ est disponible lors d'une maint
 
 * <mark style="color:orange;">Modifications</mark>:
   * Fonctionnalité _<mark style="color:purple;">**maintenance**</mark>_:
-    * La durée de maintenance est maintenant réglable dans un cas où la maintenance pourrait prendre plus de temps.
+    * La durée de maintenance est maintenant notifiée dans un cas où la maintenance pourrait prendre plus de temps.
   * Commande _<mark style="color:purple;">**/ping**</mark>_:
     * Il n'est plus possible de regarder le statut de <img src="../../.gitbook/assets/ucli-logo.png" alt="" data-size="line"><mark style="color:red;">uCLI</mark> via la commande _<mark style="color:purple;">**/ping**</mark>_ et celle-ci servira à afficher la latence seulement.
   * Commande _<mark style="color:purple;">**/bot**</mark>_:
