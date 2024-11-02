@@ -1,6 +1,7 @@
 ---
-cover: .gitbook/assets/ucli-header.png
-coverY: 0
+cover: >-
+  https://images-ext-1.discordapp.net/external/ypKCp8Cyq4ABk4XSKylZO536yJjfcpeUb7rVFyWMuHA/https/xutron.gitbook.io/ucli-docs/~gitbook/ogimage/nZGogmCyzE0IPwLmIN83
+coverY: -208
 layout:
   cover:
     visible: true

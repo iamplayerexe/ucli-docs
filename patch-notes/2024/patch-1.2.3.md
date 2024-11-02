@@ -1,6 +1,7 @@
 ---
-cover: ../../.gitbook/assets/patch-1.2.3-header.png
-coverY: 0
+cover: >-
+  https://images-ext-1.discordapp.net/external/mmlvcg0rno4Wr_cwX1HYw--gFxzzWqcFU4cDEmDox5U/https/xutron.gitbook.io/ucli-docs/~gitbook/ogimage/TqWWna6rskpcWpmmlVmR
+coverY: -220
 layout:
   cover:
     visible: true

@@ -1,6 +1,7 @@
 ---
-cover: ../../.gitbook/assets/launch-1.2.2-header.png
-coverY: 0
+cover: >-
+  https://images-ext-1.discordapp.net/external/t7qnLcj0iH3eQPZf5rR0syIpdHQoJSubmNZvd9RcV9E/https/xutron.gitbook.io/ucli-docs/~gitbook/ogimage/kGWgSn5fzelr8yPdVt5u
+coverY: -197
 layout:
   cover:
     visible: true

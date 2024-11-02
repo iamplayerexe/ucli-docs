@@ -1,5 +1,11 @@
 ---
+cover: >-
+  https://images-ext-1.discordapp.net/external/SKEgpopVYPubyfadQ3WrbvBTAtXAPq3bMh5ZpZ6mH8w/https/xutron.gitbook.io/ucli-docs/~gitbook/ogimage/krqtve2pRsBIVNk8B8Sf
+coverY: -131
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
