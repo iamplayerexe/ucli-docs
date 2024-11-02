@@ -36,6 +36,8 @@ layout:
 Toutes les maintenances ainsi que leurs heures sont notifiées sur le [_<mark style="color:blue;">serveur de support</mark>_](https://discord.gg/ZhEkgNwNpf).&#x20;
 {% endhint %}
 
+***
+
 {% hint style="info" %}
 Dans la version <mark style="color:orange;">1.2.3</mark>, <img src="../../.gitbook/assets/ucli-logo.png" alt="" data-size="line"><mark style="color:red;">uCLI</mark> n'est pas ouvert au public.
 {% endhint %}

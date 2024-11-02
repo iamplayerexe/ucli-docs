@@ -37,7 +37,9 @@ _<mark style="color:purple;">**/statut**</mark>_ est disponible lors d'une maint
   * Commande _<mark style="color:purple;">**/bot**</mark>_:
     * Refonte de l'affichage des informations.
   * Fonctionnalité <mark style="color:purple;">autres</mark>:
-    * Certaines fonctionnalités tel que "le saviez-vous" ont maintenant plus de paramètres.
+    * Certaines fonctionnalités tel que "le saviez-vous" contiennent maintenant plus de paramètres.
+
+***
 
 {% hint style="info" %}
 Dans la version <mark style="color:orange;">1.2.4</mark>, <img src="../../.gitbook/assets/ucli-logo.png" alt="" data-size="line"><mark style="color:red;">uCLI</mark> n'est pas publique.&#x20;
