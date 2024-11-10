@@ -2,9 +2,8 @@
 description: >-
   Beaucoup de choses se sont passées en 2024. Ici se trouveront toutes les
   avancés de uCLI.
-cover: >-
-  https://images-ext-1.discordapp.net/external/ftTBXHOjkhFViq-ZiRDmkG6HIrvqcdaQQ6KrtDrS_ZQ/https/xutron.gitbook.io/ucli-docs/~gitbook/ogimage/xNt1hPDDbRfSsEKSnbj1
-coverY: -176
+cover: ../../.gitbook/assets/xNt1hPDDbR55fSsEKSnbj1.png
+coverY: 41.94669756662804
 layout:
   cover:
     visible: true

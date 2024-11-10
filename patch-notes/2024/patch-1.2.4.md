@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://images-ext-1.discordapp.net/external/O9yoR6BKoT3NGKZOhIlEKfgnMbk-5bx_QpDw7-ZZBG8/https/xutron.gitbook.io/ucli-docs/~gitbook/ogimage/lecFJSSPFsReCfhdmFMD
-coverY: -163
+cover: ../../.gitbook/assets/lecFJSSPFs77ReCfhdmFMD.png
+coverY: 0
 layout:
   cover:
     visible: true
