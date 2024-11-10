@@ -1,10 +1,5 @@
 ---
-cover: ../../.gitbook/assets/12EUmzPfjCRkfjJbTTwKPV.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:

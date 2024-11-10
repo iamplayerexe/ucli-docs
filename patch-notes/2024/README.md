@@ -2,12 +2,7 @@
 description: >-
   Beaucoup de choses se sont passées en 2024. Ici se trouveront toutes les
   avancés de uCLI.
-cover: ../../.gitbook/assets/xNt1hPDDbRfSsEKSnbj1.png
-coverY: -23
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:

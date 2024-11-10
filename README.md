@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/nZGogmCyzE0IPw544LmIN83.png
-coverY: -497.17098783314026
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
