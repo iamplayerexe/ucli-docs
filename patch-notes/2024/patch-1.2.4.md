@@ -22,7 +22,7 @@ layout:
 
 ### Voici tout ce que vous devez savoir sur les nouveautés de la version 1.2.4 !
 
-* <mark style="color:green;">Ajouts</mark>:
+* <mark style="color:green;">**Ajouts**</mark>:
   * Commande _<mark style="color:purple;">**/statut**</mark>_:
     * Permet d'afficher les informations d'activité de <img src="../../.gitbook/assets/ucli-logo.png" alt="" data-size="line"><mark style="color:red;">uCLI</mark>.
 
@@ -30,7 +30,7 @@ layout:
 _<mark style="color:purple;">**/statut**</mark>_ est disponible lors d'une maintenance.
 {% endhint %}
 
-* <mark style="color:orange;">Modifications</mark>:
+* <mark style="color:orange;">**Modifications**</mark>:
   * Fonctionnalité _<mark style="color:purple;">**maintenance**</mark>_:
     * La durée de maintenance est maintenant notifiée dans un cas où la maintenance pourrait prendre plus de temps.
   * Commande _<mark style="color:purple;">**/ping**</mark>_:

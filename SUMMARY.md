@@ -9,3 +9,4 @@
   * [Patch 1.2.3](patch-notes/2024/patch-1.2.3.md)
   * [Patch 1.2.4](patch-notes/2024/patch-1.2.4.md)
   * [Patch 1.2.5](patch-notes/2024/patch-1.2.5.md)
+  * [Patch 1.2.6](patch-notes/2024/patch-1.2.6.md)

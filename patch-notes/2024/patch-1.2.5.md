@@ -20,9 +20,9 @@ layout:
 
 # Patch 1.2.5
 
-## **Voici toutes les nouveautés de la version 1.2.5 !**
+## **Voici toutes les nouveautés de la version **<mark style="color:orange;">**1.2.5**</mark>** !**
 
-* <mark style="color:green;">Ajouts</mark>:
+* <mark style="color:green;">**Ajouts**</mark>:
   * Commande _<mark style="color:purple;">**/avatar**</mark>_:
     * Permet d'afficher l'avatar de l'utilisateur.
   * Commande _<mark style="color:purple;">**/userinfo**</mark>_:
@@ -32,7 +32,7 @@ layout:
 Toute permission `ADMINISTRATEUR` obtient des informations supplémentaires sur l'utilisateur.
 {% endhint %}
 
-* <mark style="color:orange;">Modifications</mark>:&#x20;
+* <mark style="color:orange;">**Modifications**</mark>:&#x20;
   * Fonctionnalité _<mark style="color:purple;">**maintenance**</mark>_:
     * Correction d'un bug qui empêchait d'annoncer la durée de la maintenance.
     * Modification de la syntaxe de certaines phrases.

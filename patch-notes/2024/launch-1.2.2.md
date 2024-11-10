@@ -33,6 +33,12 @@ layout:
   * _<mark style="color:purple;">**/say**</mark>_ : permet d'envoyer n'importe quel message dans un salon.
   * _<mark style="color:purple;">**/editsay**</mark>_ : permet d'éditer n'importe quel message envoyé par <img src="../../.gitbook/assets/ucli-logo.png" alt="" data-size="line"><mark style="color:red;">uCLI</mark>.
 
+{% hint style="info" %}
+Les commandes _<mark style="color:purple;">**/say**</mark>_ et _<mark style="color:purple;">**/editsay**</mark>_ nécessitent la permission `ManageMessages`.
+{% endhint %}
+
+
+
 ***
 
 {% hint style="info" %}

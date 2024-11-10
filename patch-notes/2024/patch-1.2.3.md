@@ -22,10 +22,10 @@ layout:
 
 ### Voici toutes les nouveautés du Patch-note de la version 1.2.3 !
 
-* <mark style="color:green;">Ajouts</mark>:&#x20;
+* <mark style="color:green;">**Ajouts**</mark>:&#x20;
   * Système de _<mark style="color:purple;">**maintenance**</mark>_: le statut de <img src="../../.gitbook/assets/ucli-logo.png" alt="" data-size="line"><mark style="color:red;">uCLI</mark> peut être observé via la commande _<mark style="color:purple;">**/bot**</mark>_.&#x20;
   * Mise en place du patch-note lors de la fin d'une maintenance lorsque la version vient d'être modifiée.&#x20;
-* <mark style="color:yellow;">Fixs</mark>:
+* <mark style="color:yellow;">**Fixs**</mark>:
   * Correction de nombreux bugs qui survenait lors de la mise en maintenance.
   * Correction de bugs qui survenaient lors du changement de version qui empêchait une version correcte d'apparaître : la limite pour le deuxième étant 100 et pour le troisième étant 10. (x.2e.3e)
 
