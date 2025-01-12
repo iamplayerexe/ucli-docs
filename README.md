@@ -1,24 +1,24 @@
-<h1 align="center">  
-uCLI Documentation
-</h1>
+## uCLI - Le client Discord ultime
 
-<div align='center'>
-<a href="https://xutron.gitbook.io/ucli-docs/"><img src="https://img.shields.io/badge/gitbook-docs-5ff79e?style=for-the-badge"></a>
-<a href="https://discord.gg/fEMDyB9hn7"><img src="https://img.shields.io/badge/Support-discord-8289f7?style=for-the-badge"></a>
-</div>
-<br>
-<br>
+[Image de uCLI]
 
-> Pourquoi ne pas faire le meilleur pour tous ? 
+### Présentation
 
-**$${\color{red}uCLI}$$** est un client [Discord](https://discord.com) polyvalent et qui est développé dans le but de satisfaire nombreuses personnes.
+uCLI est un client Discord puissant et personnalisé, conçu pour améliorer votre expérience sur Discord.
 
-En effet, la majorité des fonctionnalités que uCLI présente sont majoritairement payantes chez d'autres concurrents. Et c'est là le défi : fournir gratuitement.
-<br>
-<br>
+### Fonctionnalités
 
-> [!NOTE]
-> Vous pouvez retrouver la documentation [ici](https://xutron.gitbook.io/ucli-docs/).
+* **[Liste des fonctionnalités]**
 
-> [!WARNING]
-> Les bugs sont à soumettre sur le [support](https://discord.gg/fEMDyB9hn7v).
+[![Version de uCLI](https://img.shields.io/badge/version-1.0.0-blue)]
+[![Licence de uCLI](https://img.shields.io/badge/licence-MIT-yellow)]
+
+### Configuration
+
+* **[Instructions de configuration spécifiques]**
+
+### Support
+
+Pour toute question ou problème, veuillez contacter notre équipe de support à l'adresse suivante : [Votre adresse email]
+
+[![Rejoignez notre serveur Discord](https://img.shields.io/discord/ton_id_serveur?label=Discord&logo=discord&color=7289DA)]
